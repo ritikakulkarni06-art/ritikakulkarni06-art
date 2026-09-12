@@ -19,7 +19,7 @@ trust it.
 
 | Project | What it is | Built with |
 |---|---|---|
-| [**Sutra Workbench**](https://github.com/ritikakulkarni06-art/sutra-workbench) | Investigator workbench for AI-assisted analysis of human-trafficking cases. Smart India Hackathon 2026, PS 26189 (MHA / NCRB). I owned the frontend, investigator UX and demo, and hand-reviewed 440 PII redaction flags for the evaluation set. | React, TypeScript, Cytoscape.js, DuckDB |
+| **Sutra Workbench** *(private — available on request)* | Investigator workbench for AI-assisted analysis of human-trafficking cases. Smart India Hackathon 2026, PS 26189 (MHA / NCRB). I owned the frontend, investigator UX and demo, and hand-reviewed 440 PII redaction flags for the evaluation set. | React, TypeScript, Cytoscape.js, DuckDB |
 | **Exoplanet Transit Detection** *(private — available on request)* | End-to-end pipeline that finds planet transits in NASA TESS light curves, then separates real planets from eclipsing binaries, blends and stellar noise using a 48-feature vetting classifier. Solo project. | Python, ML |
 | **Die-Casting Production Logger** *(private — client project)* | Mobile-first production logging app and admin dashboard that replaced paper logs at an aluminium die-casting plant, with Excel as the data store. Solo project. | React, Express, ExcelJS, Docker |
 | [**Nexus**](https://github.com/ritikakulkarni06-art/Student-Productivity-Tracker) | Student productivity app that turns a photo of your timetable into a live schedule, with study planning, habit tracking and a context-aware chatbot. Team project. | React, Express, Electron, Capacitor |
