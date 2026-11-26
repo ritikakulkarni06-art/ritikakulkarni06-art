@@ -22,9 +22,12 @@ I'm an Artificial Intelligence and Machine Learning student at **BMSIT&M, Bengal
 
 ## Private portfolio
 
-- Sutra Workbench
-- Exoplanet Transit Detection
-- Die-Casting Production Logger
+| Project | What I built | Tech stack |
+| --- | --- | --- |
+| **Sutra Workbench** | Built the investigator interface and network graph, wrote two SQL pattern detectors, and reviewed 440 redaction flags. | React, TypeScript, Vite, Cytoscape.js, SQL, DuckDB, Vitest |
+| **Exoplanet Transit Detection** | Built a solo pipeline that searches NASA TESS light curves for transit candidates, extracts 48 vetting features, and creates interactive reports. | Python, Lightkurve, Astropy, Transit Least Squares, scikit-learn, Plotly |
+| **Die-Casting Production Logger** | Built a mobile-first production logger with an admin dashboard and Excel-backed storage for a client. | React, Vite, Recharts, Node.js, Express, ExcelJS, Docker, Fly.io |
+| **BMSIT Chatbot** | Set up the frontend scaffold for a college chatbot prototype. | React, JavaScript, Vite |
 
 ## Core skills
 
