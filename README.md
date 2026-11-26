@@ -1,25 +1,33 @@
 # Hi, I'm Ritika Kulkarni
 
-I'm an AIML student at **BMSIT&M, Bengaluru**. I work on two sides of the same problem:
-building machine-learning systems, and building the interfaces that let people check what
-those systems produce and act on it.
+I'm an Artificial Intelligence and Machine Learning student at **BMSIT&M, Bengaluru**. I build machine-learning pipelines, backend services, and interfaces that help people inspect and act on model outputs.
 
-A lot of my recent work sits at that seam — hackathon and industry projects where a system
-makes a call, and a person (an investigator, a shift supervisor) has to decide whether to
-trust it.
+## Public projects
+
+| Project | What I built or contributed | Tech stack |
+| --- | --- | --- |
+| [Pathya · AI Textbook Reader](https://github.com/ritikakulkarni06-art/pathya/tree/person-3) | **Backend and AI, team project.** Built the backend for an accessible English and Hindi textbook reader, including chapter uploads, durable processing jobs, revision-aware search, and study answers tied to source passages. The local demo uses synthetic content while the team coordinates extraction and speech integration. | Python, FastAPI, SQLite FTS5, Pydantic, pytest |
+| [SignSpeak](https://github.com/ritikakulkarni06-art/signspeak) | **Hackathon prototype.** Uses a webcam to recognize up to 50 isolated American Sign Language signs and turn recognized signs into spoken English. | Python, OpenCV, MediaPipe, PyTorch (BiLSTM), Flask, Windows speech synthesis |
+| [Nexus · Student Productivity Tracker](https://github.com/ritikakulkarni06-art/Student-Productivity-Tracker) | **Team project.** Turns a timetable photo into a schedule and combines study planning, habit tracking, and a chatbot that uses logged health context. Built for web, Windows, and Android. | React, Node.js, Express, OCR.Space, OpenRouter, Electron, Capacitor |
+
+## Team contributions
+
+| Project | My role | Tech stack |
+| --- | --- | --- |
+| [Crocodile](https://github.com/atuldhull/G-A-H) | **Security and approvals.** Worked on human approvals, confidential-workspace detection, and state integrity for a terminal coding agent. | Python, Typer, Git, pytest |
+| [AgentGuard](https://github.com/gundatharuntej2006-hue/paypal/tree/ritika) | **Dashboard, deployment, and documentation.** Built a dashboard demo for reviewing AI-initiated payments, spending mandates, and audit events. | React, TypeScript, Vite, AG Grid, Recharts, Vitest |
+| [AICTE Approval Operations](https://github.com/atuldhull/approval-workflow-ocr-compliance) | **Approval workflow.** Contributed the Expert Visit Committee queue, lifecycle contracts, and safeguards against double-booking experts. | Python, FastAPI, PostgreSQL, pytest |
+| [Explainable TB Screening Research Prototype](https://github.com/gundatharuntej2006-hue/cv_proj/tree/ritika) | **Assigned workstream.** Chest X-ray lesion detection, visual explanations, PDF reporting, and latency logging for a student research project. | Python, PyTorch, D-FINE, Grad-CAM, ReportLab |
+| [InternTrack](https://github.com/gundatharuntej2006-hue/InternTrack) | **Project management and documentation.** Prepared requirements and acceptance criteria for a university department's internship and training tracker. | Markdown for project documentation. Team stack includes Django, PostgreSQL, Docker, and GitHub Actions. |
+
+## Private portfolio
+
+- Sutra Workbench
+- Exoplanet Transit Detection
+- Die-Casting Production Logger
 
 ## Core skills
 
-**Machine learning** · Python · TensorFlow · PyTorch · data pipelines · model evaluation
-**Frontend** · React · TypeScript · JavaScript · Vite · Cytoscape.js · Recharts
-**Data & backend** · SQL · DuckDB · Node.js / Express
-**Tooling** · Git · Docker · Fly.io · Vitest
-
-## Featured projects
-
-| Project | What it is | Built with |
-|---|---|---|
-| **Sutra Workbench** *(private — available on request)* | Investigator workbench for AI-assisted analysis of human-trafficking cases. Smart India Hackathon 2026, PS 26189 (MHA / NCRB). I owned the frontend, investigator UX and demo, and hand-reviewed 440 PII redaction flags for the evaluation set. | React, TypeScript, Cytoscape.js, DuckDB |
-| **Exoplanet Transit Detection** *(private — available on request)* | End-to-end pipeline that finds planet transits in NASA TESS light curves, then separates real planets from eclipsing binaries, blends and stellar noise using a 48-feature vetting classifier. Solo project. | Python, ML |
-| **Die-Casting Production Logger** *(private — client project)* | Mobile-first production logging app and admin dashboard that replaced paper logs at an aluminium die-casting plant, with Excel as the data store. Solo project. | React, Express, ExcelJS, Docker |
-| [**Nexus**](https://github.com/ritikakulkarni06-art/Student-Productivity-Tracker) | Student productivity app that turns a photo of your timetable into a live schedule, with study planning, habit tracking and a context-aware chatbot. Team project. | React, Express, Electron, Capacitor |
+- **Machine learning and data** · Python, PyTorch, TensorFlow, scikit-learn, SQL
+- **Frontend and visualization** · React, TypeScript, JavaScript, Vite, Cytoscape.js, Recharts
+- **Backend and tooling** · FastAPI, Node.js, Express, SQLite, DuckDB, Git, Docker, pytest, Vitest
